@@ -63,5 +63,7 @@ settings; RawAccel's own uninstaller removes the driver.
 
 ---
 
+**FlickTune © 2026 Kice Djingov. All rights reserved.**
+
 This repository holds installers and update files only. FlickTune includes the official, unchanged RawAccel runtime
 (MIT, © a1xd and contributors), three.js (MIT) and the Barlow fonts (OFL); the notices are installed with the app.
