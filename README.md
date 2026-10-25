@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/banner.png" alt="FlickTune: even aim in every direction" width="100%"></p>
+<p align="center"><img src="screenshots/banner.png" alt="FlickTune: warm up, tune, and go play" width="100%"></p>
 
 <h3 align="center">
   <a href="https://github.com/kicedz/flicktune-releases/releases/latest">Download FlickTune for Windows</a>
@@ -7,46 +7,47 @@
 
 ---
 
-Most players flick a little long in some directions and a little short in others, without knowing it.
+FlickTune is a short routine before you play. Warm up with drills made for your game, see how your aim is today,
+then go play. It works with [RawAccel](https://github.com/RawAccelOfficial/rawaccel), and nothing about your
+sensitivity changes unless you choose it.
 
-FlickTune finds out where. You flick at targets in a 3D room at your real in-game sensitivity, and FlickTune tunes
-[RawAccel](https://github.com/RawAccelOfficial/rawaccel) so your aim feels the same in every direction.
-Your overall sensitivity stays yours.
-
-<p align="center"><img src="screenshots/results.png" alt="Results: where your flicks land in every direction" width="90%"></p>
+<p align="center"><img src="screenshots/today.png" alt="Today: warm up, tune, go play" width="90%"></p>
 
 ## How it works
 
-1. **Tell it your game** and your DPI. The room turns exactly like your game.
-2. **Flick.** Short rounds, targets from every angle.
-3. **See your aim** in every direction, with your time to hit.
-4. **FlickTune tunes RawAccel** in small steps. Every change is saved in History, and you can go back to any point.
+1. **Pick your game.** Enter your sens and DPI. The room turns exactly like your game.
+2. **Warm up.** Quick or Full, with drills made for your game. Every drill has ranks and personal bests.
+3. **Tune.** See how your aim is today and whether anything needs a look.
+4. **Go play.**
 
-<p align="center"><img src="screenshots/arena.png" alt="The 3D flick room" width="90%"></p>
+Want more? **Train** puts your weakest drills first, and **Results** shows how you're doing over the weeks.
+
+<p align="center">
+  <img src="screenshots/train.png" alt="Train: your game's drills" width="32%">
+  <img src="screenshots/intro.png" alt="A drill about to start" width="32%">
+  <img src="screenshots/play.png" alt="Tracking a target" width="32%">
+</p>
 
 ## Questions
 
-**Is it safe with anti-cheat?** FlickTune uses the official, signed RawAccel driver, unchanged. It does not read or touch
-any game; it only changes RawAccel's settings, between flicks, inside its own 3D room. Check your game's rules if unsure.
+**Is it safe with anti-cheat?** FlickTune uses the official, signed RawAccel driver, unchanged. It doesn't read or
+change any game and doesn't need to be open while you play. Each game and league has its own rules; check them if
+you're unsure.
 
 **Does it add acceleration?** No. Your RawAccel curve stays as it is.
 
-**I already have RawAccel.** FlickTune finds it and starts from your current settings.
+**I already have RawAccel.** FlickTune finds it and starts from your current settings, older versions included.
 
-**I don't have RawAccel.** FlickTune brings it. The first time, it asks to install the RawAccel driver (Windows asks for
-admin rights) and you restart once.
+**I don't have RawAccel.** FlickTune brings it. The first time, it asks to install the RawAccel driver (Windows asks
+for admin rights) and you restart once.
 
-**How do I undo everything?** Settings → *Back to where FlickTune started*, or *Stock RawAccel*. Uninstalling FlickTune
-keeps RawAccel and its settings; RawAccel's own uninstaller removes the driver.
+**How do I undo everything?** Settings → *Back to where FlickTune started*, or *Reset RawAccel*. Every change is in
+Results, and you can go back to any point. Uninstalling FlickTune keeps RawAccel and its settings.
 
-**Updates?** FlickTune checks this page on startup and offers new versions. You can turn that off in Settings, or turn
-on beta versions to get new features a little earlier.
+**Updates?** FlickTune updates itself in the background. You can turn that off in Settings, or get beta versions a
+little earlier.
 
-<p align="center">
-  <img src="screenshots/problem.png" alt="Start screen" width="32%">
-  <img src="screenshots/calib.png" alt="Calibration" width="32%">
-  <img src="screenshots/history.png" alt="History" width="32%">
-</p>
+<p align="center"><img src="screenshots/results.png" alt="Results over the weeks" width="90%"></p>
 
 ---
 
