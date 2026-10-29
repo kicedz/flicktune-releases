@@ -1,9 +1,12 @@
 <p align="center"><img src="screenshots/banner.png" alt="FlickTune: warm up, tune, and go play" width="100%"></p>
 
-<h3 align="center">
-  <a href="https://github.com/kicedz/flicktune-releases/releases/latest">Download FlickTune for Windows</a>
-</h3>
-<p align="center">Windows 10 / 11 · works with any mouse · updates itself</p>
+<p align="center">
+  <a href="https://github.com/kicedz/flicktune-releases/releases/latest/download/FlickTune-Setup.exe"><img src="https://img.shields.io/badge/Download%20for%20Windows-latest-2ea043?style=for-the-badge&logo=windows&logoColor=white" alt="Download FlickTune for Windows" height="44"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kicedz/flicktune-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kicedz/flicktune-releases?label=version&style=flat-square" alt="Latest version"></a>
+  · Windows 10 / 11 · works with any mouse · updates itself · <a href="https://github.com/kicedz/flicktune-releases/releases">all versions</a>
+</p>
 
 ---
 
@@ -16,14 +19,15 @@ sensitivity changes unless you choose it.
 ## How it works
 
 1. **Pick your game.** Enter your sens and DPI. The room turns exactly like your game.
-2. **Warm up.** Quick or Full, with drills made for your game. Every drill has ranks and personal bests.
+2. **Warm up.** Quick or Full, with drills made for your game.
 3. **Tune.** See how your aim is today and whether anything needs a look.
 4. **Go play.**
 
-Want more? **Train** puts your weakest drills first, and **Results** shows how you're doing over the weeks.
+Want more? **Train** has lots of drills for clicking, tracking, switching and flicks: pick one, press Play, then play
+again or go to the next. Every drill has ranks, your best and your progress over time, and your weakest come first.
 
 <p align="center">
-  <img src="screenshots/train.png" alt="Train: your game's drills" width="32%">
+  <img src="screenshots/train.png" alt="Train: pick a drill" width="32%">
   <img src="screenshots/intro.png" alt="A drill about to start" width="32%">
   <img src="screenshots/play.png" alt="Tracking a target" width="32%">
 </p>
@@ -41,8 +45,10 @@ you're unsure.
 **I don't have RawAccel.** FlickTune brings it. The first time, it asks to install the RawAccel driver (Windows asks
 for admin rights) and you restart once.
 
-**How do I undo everything?** Settings → *Back to where FlickTune started*, or *Reset RawAccel*. Every change is in
-Results, and you can go back to any point. Uninstalling FlickTune keeps RawAccel and its settings.
+**How do I undo everything?** Settings → Reset: *Undo all FlickTune changes*, or *Reset mouse to normal*. Every change
+is in Results, and you can go back to any point. Uninstalling FlickTune keeps RawAccel and its settings.
+
+**My sens in another game?** Settings → *Your sens in other games* gives the same turn in every supported game.
 
 **Updates?** FlickTune updates itself in the background. You can turn that off in Settings, or get beta versions a
 little earlier.
