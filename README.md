@@ -1,7 +1,7 @@
 <p align="center"><img src="screenshots/banner.png" alt="FlickTune: warm up, tune, and go play" width="100%"></p>
 
 <p align="center">
-  <a href="https://github.com/kicedz/flicktune-releases/releases/latest/download/FlickTune-Setup.exe"><img src="https://img.shields.io/badge/Download%20for%20Windows-latest-2ea043?style=for-the-badge&logo=windows&logoColor=white" alt="Download FlickTune for Windows" height="44"></a>
+  <a href="https://github.com/kicedz/flicktune-releases/releases/latest"><img src="https://img.shields.io/badge/Download%20for%20Windows-latest-2ea043?style=for-the-badge&logo=windows&logoColor=white" alt="Download FlickTune for Windows" height="44"></a>
 </p>
 <p align="center">
   <a href="https://github.com/kicedz/flicktune-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kicedz/flicktune-releases?label=version&style=flat-square" alt="Latest version"></a>
