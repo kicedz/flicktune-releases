@@ -50,6 +50,9 @@ is in Results, and you can go back to any point. Uninstalling FlickTune keeps Ra
 
 **My sens in another game?** Settings → *Your sens in other games* gives the same turn in every supported game.
 
+**Window or another resolution?** Settings → Screen: play drills in full screen or in a window, at native
+resolution, a common size, or your own.
+
 **Updates?** FlickTune updates itself in the background. You can turn that off in Settings, or get beta versions a
 little earlier.
 
